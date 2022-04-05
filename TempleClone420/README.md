@@ -1,7 +1,5 @@
-# infiniterunner-splashkit-cpp
+TempleClone420
 
-Compile:
-skm clang++ -o programName ./fileName.cpp
+skm clang++ -o run
 
-Run:
-./programName
+./run
