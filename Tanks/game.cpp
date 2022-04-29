@@ -10,7 +10,6 @@
 
 #include <cstdlib> 
 
-// forward declarations
 void draw_tanks(game &g);
 void ai_tick(game &g);
 void tank_tick(game &g);
