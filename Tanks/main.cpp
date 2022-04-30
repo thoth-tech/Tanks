@@ -24,7 +24,7 @@ void load_resources()
  */
 int main()
 {
-    open_window("Tanks: Electric Boogaloo, WINDOW_WIDTH, WINDOW_HEIGHT);
+    open_window("Tanks: Electric Boogaloo", WINDOW_WIDTH, WINDOW_HEIGHT);
 
     load_resources();
 
